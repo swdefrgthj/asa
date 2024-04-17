@@ -1,0 +1,59 @@
+body {
+    font-family: sans-serif;
+}
+
+header{
+ background-color: navy;
+ border:5px solid navy;
+ color: white;
+ border-radius: 5px;
+ padding: 5px;
+}
+
+header a{
+ margin-left: 10px;
+ color: white;
+}
+
+h1{
+ background-color: lightblue;
+ border: 1px;
+ border-radius: 2px;
+ color: blue;
+ text-align: center;
+}
+
+footer{
+    padding: 5px;
+}
+
+footer p{
+    background-color: lime;
+}
+
+#contacts{
+    padding-left: 20px;
+}
+
+nav{
+    padding: 20px;
+
+    text-align: center;
+}
+
+nav a{
+    margin-left: 20px;
+    text-decoration: none;
+    color: white;
+    background-color: navy;
+    border: 2px solid navy;
+    border-radius: 15px;
+    padding: 3px;
+}
+.navigator{
+    color: navy;
+    background-color: white;
+    border: 1px solid navy;
+    padding: 5px;
+}
+
